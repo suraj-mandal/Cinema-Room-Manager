@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager-task-build-classes-java_main" target="11" />
+      <module name="Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java_main" target="11" />
+      <module name="Cinema_Room_Manager-task-build-generated-sources-headers-java_main" target="11" />
+      <module name="Cinema_Room_Manager-task-build-reports-tests_main" target="11" />
+      <module name="Cinema_Room_Manager-task-build-test-results_main" target="11" />
+      <module name="Cinema_Room_Manager-task-build-tmp_main" target="11" />
+      <module name="Cinema_Room_Manager-task_main" target="11" />
+      <module name="util_main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
